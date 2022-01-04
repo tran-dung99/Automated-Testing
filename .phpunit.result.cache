@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TriangleTest::testAdd":4,"TriangleTest::testAddWithNegative":3,"TriangleTest::testAddWithANegative":3},"times":{"TriangleTest::testAdd":0.003,"TriangleTest::testAddWithNegative":0.001,"TriangleTest::testAddIsTriangle":0,"TriangleTest::testAddWithANegative":0,"TriangleTest::testAddWithBNegative":0,"TriangleTest::testAddWithCNegative":0}}
